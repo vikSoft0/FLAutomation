@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+  <CreateBookingData>
+    <Postcode>20095</Postcode>
+    <CarPlateNumber>ROW-M-4234</CarPlateNumber>
+    <Mileage>100000</Mileage>
+    <Services>
+      <service>Inspektion erstmalig nach 120.000 km/ 3 Jahre, dann alle 120.000 km/ 2 Jahre</service>
+      <service>HU/AU</service>
+      <service>Brake Service - Rear Axle Brake Pad and Disc</service>
+      <service>Brake pad change rear axle</service>
+    </Services>
+    <AditionalInfo>Test Additional information</AditionalInfo>
+    <CollectionSlotTime>8:30 - 9:00</CollectionSlotTime>
+    <DeliverySlotTime>17:30 - 18:00</DeliverySlotTime>
+    <UserName>Test User</UserName>
+    <Mobile>0834345587</Mobile>
+    <Email>katja@yopmail.com</Email>
+  </CreateBookingData>
+</Root>
+
